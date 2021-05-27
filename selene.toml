@@ -1,8 +1,1 @@
-std = "roblox"
-
-[rules]
-undefined_variable = "allow"
-unused_variable = "allow"
-shadowing = "allow"
-empty_if = "allow"
-incorrect_standard_library_use = "warn"
+std = "roblox+testez"
